@@ -1,0 +1,4 @@
+#summary Lists all packets that have been discovered and are planned for inclusion in bsgemu.
+#labels Featured,Phase-Implementation,Phase-Requirements
+= Packets =
+https://docs.google.com/spreadsheet/oimg?key=0AnvE1ElkDweJdG5Eb2V1WlBFLW5zNVVQVjhQSkdBWUE&oid=2&zx=d31eiwk4eq8k&orlyyarly=fakeparameter.png
