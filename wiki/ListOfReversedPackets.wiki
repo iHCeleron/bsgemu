@@ -1,4 +1,4 @@
 #summary Lists all packets that have been discovered and are planned for inclusion in bsgemu.
 #labels Featured,Phase-Implementation,Phase-Requirements
 = Packets =
-<wiki:gadget url="https://c9.io/ilovepie/googlegadgets/workspace/gadget.xml" height="1000" width="1500" border="0" />
+<wiki:gadget url="https://c9.io/ilovepie/googlegadgets/workspace/gadget.xml" height="1000" width="1400" border="0" />
